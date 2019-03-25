@@ -34,7 +34,7 @@
     "uniqCompNum": 8,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/52893192-249016915979930-8502935004307783680-n-128x193.png",
+    "favicon": "@PROJECT_PATH@/assets/images/dsc06072-2-128x85-1.png",
     "noImageResize": ""
   },
   "pages": {
@@ -300,13 +300,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-9892-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9892-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/56119386-2285459011728761-5279064506763313152-n-960x1517.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/56119386-2285459011728761-5279064506763313152-n-960x1517-800x1264.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animé",
@@ -397,7 +397,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animé",
@@ -432,6 +432,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/dsc06148-1-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc06148-1-2000x1333-800x926.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tapez la légende ici",
+                "active": false
+              },
+              {
+                "tags": "Animé",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-9892-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9892-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
