@@ -157,13 +157,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20190426-183207000-ios-1-1060x1600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190426-183207000-ios-1-1060x1600-800x1209.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190426-183216000-ios-2-1060x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190426-183216000-ios-2-1060x1600-677x1024.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animé",
@@ -268,6 +268,19 @@
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
                 "active": false
+              },
+              {
+                "tags": "Animé",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20190426-183207000-ios-1-1060x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190426-183207000-ios-1-1060x1600-800x1209.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tapez la légende ici",
+                "active": true
               },
               {
                 "tags": "Animé",
@@ -432,19 +445,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/instagram20190414182330-1-1080x1350.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/instagram20190414182330-1-1080x1350-800x1001.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
-                "active": false
-              },
-              {
-                "tags": "Animé",
-                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20190426-183216000-ios-2-1060x1600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190426-183216000-ios-2-1060x1600-677x1024.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
