@@ -34,7 +34,7 @@
     "uniqCompNum": 8,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/20190426-185036000-ios-128x193.png",
+    "favicon": "@PROJECT_PATH@/assets/images/79a4111-modifier-128x192-1.png",
     "noImageResize": ""
   },
   "pages": {
@@ -280,7 +280,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animé",
@@ -326,8 +326,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20190426-183114000-ios-1060x1600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190426-183114000-ios-1060x1600-800x1208.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190426-183114000-ios-1-1060x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190426-183114000-ios-1-1060x1600-800x1209.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -449,7 +449,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": false
+                "active": true
               }
             ]
           }
